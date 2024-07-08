@@ -1,0 +1,5 @@
+tqdm~=4.66.4
+pillow_heif~=0.17.0
+pillow~=10.4.0
+inquirerpy~=0.3.4
+rich~=13.7.1
